@@ -3,7 +3,7 @@
 Árbol de Navidad
 ## Creador
 Cruz Méndez Juan Gustavo Ángel
-## Explicacion de funcionamiento
+## Explicación de funcionamiento
 El árbol navideño tendrá la funcionalidad de encender luces led, reproducir villancicos, ademas de retirarse y colocarse un gorrito navideño cuando una 
 persona se acerque.
 ## Materiales a utilizar
