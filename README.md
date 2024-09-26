@@ -22,42 +22,41 @@ persona se acerque.
 ## Software a utilizar
 Thonny
 ## Dibujo del personaje 
-<img src="https://github.com/user-attachments/assets/c9768425-2304-416f-9596-dcf861a44acc" width="400"/>
+<img src="" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
-<img src="https://github.com/user-attachments/assets/78225903-019d-4d03-927e-48669a5aea8b" width="500"/>
+<img src="https://github.com/user-attachments/assets/8d0f23ff-eeec-41c4-8171-c21f60fcdb19" width="500"/>
 
 **Enlace de simulacion de wokwi**
 
-https://wokwi.com/projects/409885428192159745
+https://wokwi.com/projects/410014958017160193
 
 **Enlace al video de la simulacion en wokwi**
 
-https://drive.google.com/file/d/1vr2yBmr9TLMkTEiXGaUM-qJfZ-F_OqJC/view?usp=sharing
 
 ## Imagen de los examenes de cisco
 Modulo 1
 
-<img src="https://github.com/user-attachments/assets/a63a3777-161c-4c08-a8a5-559eb5514329" width="500"/>
+<img src="https://github.com/user-attachments/assets/6ebd4377-3ee3-4b4e-8687-8a9374d841d0" width="500"/>
 
 Modulo 2
 
-<img src="https://github.com/user-attachments/assets/7a52ad24-154b-4092-829d-9829f5f92ca7" width="500"/>
+<img src="https://github.com/user-attachments/assets/14e50437-1bce-4d5c-b058-6a7ca576991f" width="500"/>
 
 
 Modulo 3
 
-<img src="https://github.com/user-attachments/assets/1feb4030-7f93-46a7-834f-94c8238d0530" width="500"/>
+<img src="https://github.com/user-attachments/assets/28ede76f-49c5-47c5-89ca-97200974a7a0" width="500"/>
 
 Modulo 4
 
-<img src="https://github.com/user-attachments/assets/c6e645b3-fbdb-4c4a-bf0f-7cd9e03fb5b7" width="500"/>
+<img src="https://github.com/user-attachments/assets/6333f436-a881-44ea-aa47-9caaa4f48707" width="500"/>
 
 Modulo 5
 
-<img src="https://github.com/user-attachments/assets/e0ee97f3-40e0-4eac-92bc-730996998d6b" width="500"/>
+<img src="https://github.com/user-attachments/assets/24113461-2e87-42ff-9b6c-865c06ad0893" width="500"/>
 
 Examen Final
 
-<img src="https://github.com/user-attachments/assets/f5910c55-4f47-41b5-8698-8aa84d1db194" width="500"/>
+<img src="https://github.com/user-attachments/assets/4e653832-7141-4025-8d23-6458874707b9" width="500"/>
