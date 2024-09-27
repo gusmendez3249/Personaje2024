@@ -9,7 +9,7 @@ persona se acerque.
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Precio |
 |-|-|-|-|
-|ESP32|<img src="https://github.com/user-attachments/assets/41c9a276-97af-4928-b202-e5325a11d384" width="60"/>|1|$120|
+|ESP32|<img src="https://github.com/user-attachments/assets/41c9a276-97af-4928-b202-e5325a11d384" width="60"/>|1 pz|$120|
 |Escarcha|<img src="https://github.com/user-attachments/assets/dd11c146-6836-464f-a54a-4d943262dbb1" width="60"/>|20 mts|$128|
 |Leds RGB|<img src="https://github.com/user-attachments/assets/13636813-c4a3-4e46-bddf-de5bbe9cd4fb" width="60"/>|100 pz|$100|
 |Sensor de proximidad|<img src="https://github.com/user-attachments/assets/3d139ca5-3cc2-4124-baa7-2f6fb9569786" width="60"/>|1 pz|$50|
@@ -25,7 +25,7 @@ persona se acerque.
 ## Software a utilizar
 Thonny, Arduino
 ## Dibujo del personaje 
-<img src="" width="400"/>
+<img src="https://github.com/user-attachments/assets/c6a1780e-960c-4f03-a1a3-705b94ffd135" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
@@ -37,13 +37,14 @@ https://wokwi.com/projects/410014958017160193
 
 **Enlace al video de la simulacion en wokwi**
 
+https://drive.google.com/file/d/1wE5LtTese6NqU5fKTW9noEifaDxW-YP0/view?usp=sharing
 
 ## Imagen de los examenes de cisco
-Modulo 1
+Módulo 1
 
 <img src="https://github.com/user-attachments/assets/6ebd4377-3ee3-4b4e-8687-8a9374d841d0" width="500"/>
 
-Modulo 2
+Módulo 2
 
 <img src="https://github.com/user-attachments/assets/14e50437-1bce-4d5c-b058-6a7ca576991f" width="500"/>
 
@@ -52,11 +53,11 @@ Modulo 3
 
 <img src="https://github.com/user-attachments/assets/28ede76f-49c5-47c5-89ca-97200974a7a0" width="500"/>
 
-Modulo 4
+Módulo 4
 
 <img src="https://github.com/user-attachments/assets/6333f436-a881-44ea-aa47-9caaa4f48707" width="500"/>
 
-Modulo 5
+Módulo 5
 
 <img src="https://github.com/user-attachments/assets/24113461-2e87-42ff-9b6c-865c06ad0893" width="500"/>
 
