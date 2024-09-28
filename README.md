@@ -23,13 +23,19 @@ persona se acerque.
 
 
 ## Software a utilizar
+
 Thonny, Arduino
+
 ## Dibujo del personaje 
+
 <img src="https://github.com/user-attachments/assets/c6a1780e-960c-4f03-a1a3-705b94ffd135" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
 
 <img src="https://github.com/user-attachments/assets/8d0f23ff-eeec-41c4-8171-c21f60fcdb19" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/85239caa-0031-4eae-a262-422424f61a51" widht="200"/>
+
 
 **Enlace de simulacion de wokwi**
 
@@ -41,7 +47,7 @@ https://wokwi.com/projects/410217578196963329
 
 **Enlace al video de la simulacion en wokwi**
 
-https://drive.google.com/file/d/1wE5LtTese6NqU5fKTW9noEifaDxW-YP0/view?usp=sharing
+https://drive.google.com/file/d/15812yjmcToeeZFwy-9_c0RKKJp4V0qP2/view?usp=sharing
 
 ## Imagen de los examenes de cisco
 Módulo 1
