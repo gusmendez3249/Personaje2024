@@ -34,8 +34,8 @@ Thonny, Arduino
 
 <img src="https://github.com/user-attachments/assets/8d0f23ff-eeec-41c4-8171-c21f60fcdb19" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/85239caa-0031-4eae-a262-422424f61a51" widht="200"/>
 
+<img src="https://github.com/user-attachments/assets/85239caa-0031-4eae-a262-422424f61a51" width="500"/>
 
 **Enlace de simulacion de wokwi**
 
