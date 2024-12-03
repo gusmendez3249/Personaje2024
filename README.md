@@ -61,32 +61,9 @@ https://drive.google.com/drive/folders/1CJ4C-i4Y5iO42yvoowunRWaiLUClYkx0?usp=sha
 
 https://wokwi.com/projects/410217578196963329
 
-**Enlace al video de la simulacion en wokwi**
+## Imagenes examenes de cisco JavaScript
 
-https://drive.google.com/file/d/15812yjmcToeeZFwy-9_c0RKKJp4V0qP2/view?usp=sharing
-
-## Imagen de los examenes de cisco
-Módulo 1
-
-<img src="https://github.com/user-attachments/assets/6ebd4377-3ee3-4b4e-8687-8a9374d841d0" width="500"/>
-
-Módulo 2
-
-<img src="https://github.com/user-attachments/assets/14e50437-1bce-4d5c-b058-6a7ca576991f" width="500"/>
-
-
-Modulo 3
-
-<img src="https://github.com/user-attachments/assets/28ede76f-49c5-47c5-89ca-97200974a7a0" width="500"/>
-
-Módulo 4
-
-<img src="https://github.com/user-attachments/assets/6333f436-a881-44ea-aa47-9caaa4f48707" width="500"/>
-
-Módulo 5
-
-<img src="https://github.com/user-attachments/assets/24113461-2e87-42ff-9b6c-865c06ad0893" width="500"/>
-
-Examen Final
-
-<img src="https://github.com/user-attachments/assets/4e653832-7141-4025-8d23-6458874707b9" width="500"/>
+|Nombre|Link|
+|--|--|
+|Juan Gustavo Ángel Cruz Méndez|https://drive.google.com/drive/folders/1nVVKeJ4MjNv9tasn4IhnQsdeAxyrMTVE?usp=drive_link|
+|Juan Diego Ruiz Rivera|https://drive.google.com/drive/folders/1bpVjh3ChkWFO-xYvudptlGcoHqEyY364?usp=drive_link|
