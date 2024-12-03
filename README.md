@@ -48,7 +48,7 @@ prototipo
 https://drive.google.com/drive/folders/1-OjXbiwzy3pN4N_FvsikgBHyuDnDvGeQ?usp=sharing
 
 ## Flujo de node-red
-flujo node red
+https://github.com/gusmendez3249/Personaje2024/blob/main/flows.json
 
 ## Código (.py)
 codigos py
