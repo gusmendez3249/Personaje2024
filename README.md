@@ -34,7 +34,7 @@ Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dent
 |Hojas de colores|<img src="https://github.com/user-attachments/assets/48975d61-35ac-4cb4-abd6-5b84d736ede7" width="60"/>|10 pz|$10|
 |Regalos|<img src="https://github.com/user-attachments/assets/ece22068-c49b-4cfa-b566-7c7b69414fd6" width="60"/>|2 pz|$20|
 |Estambre|<img src="https://github.com/user-attachments/assets/0f4ded2d-fab7-4f9a-86fd-b45cc1fc6a6b" width="60"/>|1 mt|$10|
-|Silicon|<img src="https://github.com/user-attachments/assets/b9e68786-cbc7-4418-a4c6-9bb5ed517256" width="60"/>|1 mt|$20|
+|Silicon|<img src="https://github.com/user-attachments/assets/b9e68786-cbc7-4418-a4c6-9bb5ed517256" width="60"/>|10 pz|$20|
 
 
 ## Software Utilizado
@@ -44,6 +44,9 @@ Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dent
 
 ## Prototipo
 https://drive.google.com/file/d/10pfem6FmaKHE6m0JL8oMTJP38QDukGKy/view?usp=sharing
+
+## Evidencia de avance
+https://drive.google.com/drive/folders/1-OjXbiwzy3pN4N_FvsikgBHyuDnDvGeQ?usp=sharing
 
 ## Flujo de node-red
 https://github.com/mmildred/PersonajeA/blob/62b3f1c50ddba9ea6dd04349aa24680a07ffcb81/flows%20(1)%20(1).json
