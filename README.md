@@ -65,3 +65,24 @@ https://wokwi.com/projects/410217578196963329
 |--|--|
 |Juan Gustavo Ángel Cruz Méndez|https://drive.google.com/drive/folders/1nVVKeJ4MjNv9tasn4IhnQsdeAxyrMTVE?usp=drive_link|
 |Juan Diego Ruiz Rivera|https://drive.google.com/drive/folders/1bpVjh3ChkWFO-xYvudptlGcoHqEyY364?usp=drive_link|
+
+
+## Coevaluaciones 
+
+### Coevaluación de Juan Gustavo Ángel Cruz Méndez  a Juan Diego Ruiz Rivera 
+
+Trabajar con mi compañero en general fue algo positivo, ya que tuvimos una comunicación directa y ambos teníamos ganas de trabajar, de los puntos positivos a destacar de mi compañero son: 
+* La puntualidad para llegar a las reuniones establecidas
+* La cooperación para ayudarme en aspectos que no sabía como resolver
+* Apoyo monetario
+* Creatividad y rápida capacidad de solución
+* Tolerancia y respeto
+
+  Aunque hasta ahora suena que todo fue excelente, tambien hay que mencionar algunos detalles que tuvimos o puntos de mejora que podríamos reflexionar para un futuro trabajo en equipo entre mi compañero Diego y yo.
+  Algunas áreas de mejora detectadas son:
+* Aunque fuimos puntual en las reuniones, se procrastino demasiado tiempo y se dejó la actividades a ultimas semanas
+* La fácil distracción de mi compañero. Si bien, es alguin que resuelve constantemente las problematicas que se plantan, es una persona que se distrae fácilmente con objetos como: celular, tv o incluso computadora
+* Cansancio continuo, aunque es de reconocer que tuvimos un buen ritmo a la hora de trabajar, mi compañero Diego solía descansar más de lo esperado, es decir, al finalizar alguna actividad al momento de descansar, se desperdiciaba mucho tiempo y hacia que se postergaran más las siguientes actividades.
+
+  Está es mi coevaluación dirigida a mi compañero Diego, en general fue una agradable experiencia, me gustó trabajar en equipo con el y espero en un futuro ser equipo de nuevo con el y reflexionar las áreas de mejora que actualmente se encontraroón.
+  Gracias.
