@@ -43,30 +43,22 @@ Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dent
 |Arduino|2.2.1|Software Libre|
 
 ## Prototipo
-https://drive.google.com/file/d/10pfem6FmaKHE6m0JL8oMTJP38QDukGKy/view?usp=sharing
-
+prototipo
 ## Evidencia de avance
 https://drive.google.com/drive/folders/1-OjXbiwzy3pN4N_FvsikgBHyuDnDvGeQ?usp=sharing
 
 ## Flujo de node-red
-https://github.com/mmildred/PersonajeA/blob/62b3f1c50ddba9ea6dd04349aa24680a07ffcb81/flows%20(1)%20(1).json
+flujo node red
 
 ## Código (.py)
-https://github.com/mmildred/PersonajeA/blob/main/lenadorpy.py
-
-## Video de elaboración de personaje 
-https://drive.google.com/drive/folders/1MYoXdDYSUNkNTd7i5Rz9cHznkdSzradL?usp=drive_link
+codigos py
 
 ## Videos de demostración
-https://drive.google.com/drive/folders/1CJ4C-i4Y5iO42yvoowunRWaiLUClYkx0?usp=sharing
+tiktok
 
 **Enlace de simulacion de wokwi del personaje Navideño**
 
 https://wokwi.com/projects/410217578196963329
-
-**Enlace al video de la simulacion en wokwi**
-
-https://drive.google.com/file/d/15812yjmcToeeZFwy-9_c0RKKJp4V0qP2/view?usp=sharing
 
 ## Imagen de los examenes de cisco JavaScript
 |Nombre|Link|
