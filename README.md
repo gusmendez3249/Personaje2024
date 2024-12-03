@@ -1,11 +1,18 @@
 # Personaje2024
 ## Nombre del personaje
-Árbol de Navidad
-## Creador
-Cruz Méndez Juan Gustavo Ángel
+Walter White 
+
+## Creadores Grupo GDS0642
+
+|Nombre | Apellido Paterno | Apellido Materno |
+|-|-|-|
+|Juan Gustavo Ángel| Cruz| Méndez|
+|Juan Diego| Ruíz| Rivera|
+
 ## Explicación de funcionamiento
-El árbol navideño tendrá la funcionalidad de encender luces led, reproducir villancicos, ademas de retirarse y colocarse un gorrito navideño cuando una 
-persona se acerque.
+Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dentro de sus funcionalidades estan: Saludar (con un servo), Abrir y cerrar ojos (Max7219), Mover el pastel (Stepper), detectar la proximidad (sensor de proximidad) y finalmente una canción navideña (buzzer).
+
+
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Precio |
 |-|-|-|-|
@@ -34,20 +41,21 @@ persona se acerque.
 |Nombre|Version|Tipo|
 |--|--|--|
 |Arduino|2.2.1|Software Libre|
-## Dibujo del personaje 
 
-<img src="https://github.com/user-attachments/assets/c6a1780e-960c-4f03-a1a3-705b94ffd135" width="400"/>
+## Prototipo
+https://drive.google.com/file/d/10pfem6FmaKHE6m0JL8oMTJP38QDukGKy/view?usp=sharing
 
-## Enlaces de la simulacion de wokwi
+## Flujo de node-red
+https://github.com/mmildred/PersonajeA/blob/62b3f1c50ddba9ea6dd04349aa24680a07ffcb81/flows%20(1)%20(1).json
 
-<img src="https://github.com/user-attachments/assets/8d0f23ff-eeec-41c4-8171-c21f60fcdb19" width="500"/>
+## Código (.py)
+https://github.com/mmildred/PersonajeA/blob/main/lenadorpy.py
 
+## Video de elaboración de personaje 
+https://drive.google.com/drive/folders/1MYoXdDYSUNkNTd7i5Rz9cHznkdSzradL?usp=drive_link
 
-<img src="https://github.com/user-attachments/assets/85239caa-0031-4eae-a262-422424f61a51" width="500"/>
-
-**Enlace de simulacion de wokwi**
-
-https://wokwi.com/projects/410014958017160193
+## Videos de demostración
+https://drive.google.com/drive/folders/1CJ4C-i4Y5iO42yvoowunRWaiLUClYkx0?usp=sharing
 
 **Enlace de simulacion de wokwi del personaje Navideño**
 
