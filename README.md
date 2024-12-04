@@ -38,9 +38,9 @@ Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dent
 
 
 ## Software Utilizado
-|Nombre|Version|Tipo|
-|--|--|--|
-|Arduino|2.2.1|Software Libre|
+|Nombre del software|Versión|Tipo de software|
+|-|-|-|
+|Thonny|4.2.1|Software Libre|
 
 ## Prototipo
 https://drive.google.com/file/d/1wIXe32L1eWrN4UY1AC9Bgttj6qnrTMBQ/view?usp=sharing
