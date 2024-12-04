@@ -38,9 +38,9 @@ Walter White es un muñeco de nieve el cual tendrá un pastel para el solo. Dent
 
 
 ## Software Utilizado
-|Nombre del software|Versión|Tipo de software|
-|-|-|-|
-|Thonny|4.2.1|Software Libre|
+|Nombre|Version|Tipo|
+|--|--|--|
+|Arduino|2.2.1|Software Libre|
 
 ## Prototipo
 https://drive.google.com/file/d/1wIXe32L1eWrN4UY1AC9Bgttj6qnrTMBQ/view?usp=sharing
@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1wIXe32L1eWrN4UY1AC9Bgttj6qnrTMBQ/view?usp=shari
 https://drive.google.com/drive/folders/1-OjXbiwzy3pN4N_FvsikgBHyuDnDvGeQ?usp=sharing
 
 ## Flujo de node-red
-https://github.com/gusmendez3249/Personaje2024/blob/main/flows%20(1).json
+https://github.com/gusmendez3249/Personaje2024/blob/main/flows.json
 
 ## Código (.py)
 codigos py
@@ -87,3 +87,17 @@ Trabajar con mi compañero en general fue algo positivo, ya que tuvimos una comu
 
   Está es mi coevaluación dirigida a mi compañero Diego, en general fue una agradable experiencia, me gustó trabajar en equipo con el y espero en un futuro ser equipo de nuevo con el y reflexionar las áreas de mejora que actualmente se encontraroón.
   Gracias.
+
+### Coevaluación de Juan Diego Ruiz Rivera a Juan Gustavo Ángel Cruz Méndez
+
+El trabajo en equipo puedo describirlo de forma general como bueno, la comunicación dentro del equipo fue muy acertiva y manejabamos la carga de trabajo de una manera equilibrada lo que nos hacia avanzar de una manera óptima dentro del horario empleado para este proyecto. Algunos puntos que puedo destacar de mi compañero de equipo son:
+  * La responsabilidad a la hora de realizar sus actividades 
+  * La proactividad de realizar con lo establecido dentro del tiempo dado
+  * Pronta respuesta ante las problematicas planteadas y ayuda enfocada en la codificación
+
+Estos fueron algunos puntos claves en los que mi compañero destacaba pero no eran los únicos, pero del mismo modo se lograron identificar algunas áreas de mejora que se pueden aprovechar mejor para tener una majoria de trabajo general
+  * El poco manejo de la frustación y estrés es algo que mi compañero expresaba a la hora de confrontar problemáticas grandes dentro de este proyecto. Si bien no fueron muchas, se logró notar este aspecto
+  * La procrastinación de las actividades, este es un punto mutuo pues de ambas partes se notó y es algo que podemos mejorar para futuros proyectos
+  * La poca participación en la búsqueda de soluciones esteticas o de diseño dentro del proyecto planteado
+
+El objetivo de esta coevaluación es ayudar a mi compañero a visualizar sus actos tanto positivos como negativos para una mejoria a la hora de trabajos en equipo. De manera general puedo decir que la colaboración fue muy buena y el proyecto avanzo de la manera mas óptima dentro de nuestras posibilidades esperando que en un futuro se logren trabajar etsas áreas y de esa manera lograr tener un mejor rendimiento como equipo.
