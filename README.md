@@ -56,6 +56,7 @@ Código Monito de Nieve
 https://github.com/gusmendez3249/Personaje2024/blob/main/main1.py
 
 Código Pastel
+https://github.com/gusmendez3249/Personaje2024/blob/main/main2.py
 
 ## Videos de demostración
 tiktok
