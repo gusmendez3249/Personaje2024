@@ -52,7 +52,10 @@ https://drive.google.com/drive/folders/1-OjXbiwzy3pN4N_FvsikgBHyuDnDvGeQ?usp=sha
 https://github.com/gusmendez3249/Personaje2024/blob/main/flows.json
 
 ## Código (.py)
-codigos py
+Código Monito de Nieve
+https://github.com/gusmendez3249/Personaje2024/blob/main/main1.py
+
+Código Pastel
 
 ## Videos de demostración
 tiktok
