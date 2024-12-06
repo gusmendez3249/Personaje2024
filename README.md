@@ -59,7 +59,7 @@ Código Pastel
 https://github.com/gusmendez3249/Personaje2024/blob/main/main2.py
 
 ## Videos de demostración
-tiktok
+https://vm.tiktok.com/ZMkdVT59r/
 
 **Enlace de simulacion de wokwi del personaje Navideño**
 
